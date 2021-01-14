@@ -1,0 +1,61 @@
+#sizing-logo{
+    width: 330px;
+    margin-right: 17px;
+}
+ #for-center{
+     display: flex;
+     align-items: center;
+ }
+ .font-colour{
+    font-family: 'Oswald', sans-serif;
+     color:rgb(250, 118, 66) ;
+     font-size: 55px;
+ }
+ .font-colour-2{
+     font-size: 55px;
+     color: rgb(66, 46, 85);
+ }
+ p{
+     color: dimgray;
+ }
+ .img-sige img{
+     width: 100%;
+ }
+ .panda-card{
+    border:0 ;
+     
+}
+.color-change{
+    background-color: rgb(255, 255, 255);
+}
+.sizing{
+    width: 100px;
+}
+.last-img-size{
+    width: 80%;
+    margin-left: 60px;
+}
+.button img {
+    width: 30px;
+}
+.button{
+     
+    font-size: 17px;
+}
+.font{
+    font-family: 'Oswald', sans-serif;
+    color: rgb(66, 46, 85);
+}
+.center{
+    text-align: center;
+}
+.panda-sizing{
+    height: 500px;
+}
+.icon img{
+
+   width: 30px;
+     margin:10px ;
+      
+}
+ 
